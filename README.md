@@ -84,9 +84,9 @@ Voici les fonctionnalités principales du programme. Les fonctionnalités **réa
   - Redirection vers des interfaces spécifiques selon le rôle.
 - **Interface administrateur** :
   - **Gestion des utilisateurs** (ajout, suppression, modification des rôles).  
-    ***(Réalisé par nos soins)***  
+
   - **Visualisation et gestion des logs d'activité**.  
-    ***(Réalisé par nos soins)***  
+ 
   - **Accès au bilan financier**.  
     ***(Réalisé par nos soins)***
 - **Interface caissier** :
@@ -94,7 +94,6 @@ Voici les fonctionnalités principales du programme. Les fonctionnalités **réa
   - Enregistrement des transactions.
 - **Interface brasseur** :
   - **Outils de brassage pour calculer les ingrédients nécessaires**.  
-    ***(Réalisé par nos soins)***  
   - Gestion des stocks de matières premières.
 - **Bilan financier** :
   - Suivi des recettes et des dépenses.
