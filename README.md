@@ -64,6 +64,7 @@ RECIDIVISTE est un projet de site web pour une brasserie artisanale fictive. Ce 
   - `commandes` : Suivi des commandes.
   - `ventes` : Enregistrement des ventes.
   - `finances` : Gestion des transactions financières.
+  - ![image](https://github.com/user-attachments/assets/c6e3b7f2-3d38-49c8-ba2c-c73dfc7733b9)
 
 ### Fichiers annexes
 - **`logs.tkt`** : Fichier de logs pour enregistrer les actions des utilisateurs.
@@ -102,4 +103,4 @@ Ce projet est sous licence MIT. Vous êtes libre de l'utiliser, de le modifier e
 
 ---
 Merci de soutenir notre mission solidaire en explorant le projet RECIDIVISTE !
-![image](https://github.com/user-attachments/assets/c6e3b7f2-3d38-49c8-ba2c-c73dfc7733b9)
+
