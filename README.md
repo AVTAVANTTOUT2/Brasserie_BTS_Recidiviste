@@ -102,3 +102,4 @@ Ce projet est sous licence MIT. Vous êtes libre de l'utiliser, de le modifier e
 
 ---
 Merci de soutenir notre mission solidaire en explorant le projet RECIDIVISTE !
+![image](https://github.com/user-attachments/assets/c6e3b7f2-3d38-49c8-ba2c-c73dfc7733b9)
