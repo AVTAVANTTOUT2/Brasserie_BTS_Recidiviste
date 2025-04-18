@@ -40,7 +40,6 @@ Le projet est structuré en plusieurs fichiers PHP et HTML, chacun correspondant
  
 Arborescence du dossier `src/`
 
-```bash
 src/
 ├── acces_refuser.php              # Page d'accès refusé
 ├── admin.php                      # Interface de gestion admin
@@ -68,8 +67,6 @@ src/
 ├── produit.php                   # Affichage des produits depuis BDD
 ├── update_panier.php            # Mise à jour du panier
 └── view_logs.php                # Visualisation des logs en temps réel
-
-```markdown
 
 ---
 
