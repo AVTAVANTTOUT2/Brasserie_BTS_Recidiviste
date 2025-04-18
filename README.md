@@ -14,6 +14,9 @@ La base de données est construite en MySQL et contient les tables suivantes :
 - **`finances`** : Gestion des transactions financières (recettes, dépenses, date).
 - **`logs`** : Historique des actions effectuées par les utilisateurs.
 
+  ![image](https://github.com/user-attachments/assets/0ab81147-6b13-4d1b-a6b3-1aff0a570d02)
+
+
 ---
 
 ## Présentation de la structure du programme
@@ -72,37 +75,7 @@ Voici les fonctionnalités principales du programme. Les fonctionnalités **réa
 
 ---
 
-![image](https://github.com/user-attachments/assets/0ab81147-6b13-4d1b-a6b3-1aff0a570d02)
 
----
-
-**src/
-**├── acces_refuser.php
-**├── admin.php
-**├── ajouter.php
-**├── ajouter_panier.php
-**├── auth_check.php
-**├── brasseur.php
-**├── brasseurs2.html
-**├── brasseurs3.html
-**├── brasseurs4.html
-**├── caissier.php
-**├── config_admin.php
-**├── connexion.php
-**├── connexion_admin.php
-**├── contact.php
-**├── deconnexion.php
-**├── hash.php
-**├── if0_38342553_db_bts (...)
-**├── index.html
-**├── logout.php
-**├── logs.tkt
-**├── logs.txt
-**├── page_v.html
-**├── panier.php
-**├── produit.php
-**├── update_panier.php
-**└── view_logs.php
 
 
 ---
@@ -115,6 +88,7 @@ Voici les principales ressources utilisées pour le développement du projet :
 - Icônes Font Awesome : [https://fontawesome.com/](https://fontawesome.com/)
 - Tutoriels OpenClassrooms : [https://openclassrooms.com/](https://openclassrooms.com/)
 - Stack Overflow pour la résolution de problèmes spécifiques : [https://stackoverflow.com/](https://stackoverflow.com/)
+- Pedagogeek : [https://pedagogeek.fr/](https://pedagogeek.fr/)
 
 ---
 
