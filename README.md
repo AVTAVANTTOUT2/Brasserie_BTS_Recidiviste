@@ -37,6 +37,38 @@ Le projet est structuré en plusieurs fichiers PHP et HTML, chacun correspondant
 - **Scripts annexes** :
   - `hash.php` : Génération de hash pour les mots de passe.
   - `config_admin.php` : Configuration de la connexion à la base de données.
+ 
+Arborescence du dossier `src/`
+
+```bash
+src/
+├── acces_refuser.php              # Page d'accès refusé
+├── admin.php                      # Interface de gestion admin
+├── ajouter.php                    # Ajout de produits (admin)
+├── ajouter_panier.php            # Ajout d'articles au panier
+├── auth_check.php                # Vérification des droits d'accès
+├── brasseur.php                  # Page dynamique pour les brasseurs (WIP)
+├── brasseurs2.html               # Présentation statique brasseur 1
+├── brasseurs3.html               # Présentation statique brasseur 2
+├── brasseurs4.html               # Présentation statique brasseur 3
+├── caissier.php                  # Interface caissier
+├── config_admin.php              # Configuration des droits admin
+├── connexion.php                 # Connexion utilisateur générique
+├── connexion_admin.php          # Connexion spécifique admin
+├── contact.php                   # Page de contact
+├── deconnexion.php              # Script de déconnexion
+├── hash.php                      # Fichier de hachage des mots de passe
+├── if0_38342553_db_bts (...)     # Dossier ou fichier lié à la BDD (à préciser)
+├── index.html                    # Page d'accueil avec redirection par rôle
+├── logout.php                    # Déconnexion (ancien ou alternative ?)
+├── logs.tkt                      # Ancien fichier de logs (temporaire)
+├── logs.txt                      # Journal des connexions/déconnexions
+├── page_v.html                   # Vue publique simplifiée (visiteur)
+├── panier.php                    # Page panier utilisateur
+├── produit.php                   # Affichage des produits depuis BDD
+├── update_panier.php            # Mise à jour du panier
+└── view_logs.php                # Visualisation des logs en temps réel
+
 
 ---
 
