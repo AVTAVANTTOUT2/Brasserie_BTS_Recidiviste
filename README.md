@@ -75,33 +75,36 @@ Voici les fonctionnalités principales du programme. Les fonctionnalités **réa
 ![image](https://github.com/user-attachments/assets/0ab81147-6b13-4d1b-a6b3-1aff0a570d02)
 
 ---
-src/
-├── acces_refuser.php
-├── admin.php
-├── ajouter.php
-├── ajouter_panier.php
-├── auth_check.php
-├── brasseur.php
-├── brasseurs2.html
-├── brasseurs3.html
-├── brasseurs4.html
-├── caissier.php
-├── config_admin.php
-├── connexion.php
-├── connexion_admin.php
-├── contact.php
-├── deconnexion.php
-├── hash.php
-├── if0_38342553_db_bts (...)
-├── index.html
-├── logout.php
-├── logs.tkt
-├── logs.txt
-├── page_v.html
-├── panier.php
-├── produit.php
-├── update_panier.php
-└── view_logs.php
+
+**src/
+**├── acces_refuser.php
+**├── admin.php
+**├── ajouter.php
+**├── ajouter_panier.php
+**├── auth_check.php
+**├── brasseur.php
+**├── brasseurs2.html
+**├── brasseurs3.html
+**├── brasseurs4.html
+**├── caissier.php
+**├── config_admin.php
+**├── connexion.php
+**├── connexion_admin.php
+**├── contact.php
+**├── deconnexion.php
+**├── hash.php
+**├── if0_38342553_db_bts (...)
+**├── index.html
+**├── logout.php
+**├── logs.tkt
+**├── logs.txt
+**├── page_v.html
+**├── panier.php
+**├── produit.php
+**├── update_panier.php
+**└── view_logs.php
+
+
 ---
 
 ## Sources
