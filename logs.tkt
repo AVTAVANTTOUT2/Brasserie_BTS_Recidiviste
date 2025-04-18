@@ -1,0 +1,45 @@
+[2025-04-17 03:21:27] - IP: 176.179.151.63 - Utilisateur: caissier@gmail.com - Action: Accès à la page caissier
+[2025-04-17 03:21:31] - IP: 176.179.151.63 - Utilisateur: caissier@gmail.com - Action: Accès à la page caissier
+[2025-04-17 03:22:57] - IP: 176.179.151.63 - Utilisateur: caissier@gmail.com - Action: Accès à la page caissier
+[2025-04-17 03:25:05] - IP: 176.179.151.63 - Utilisateur: caissier@gmail.com - Action: Connexion réussie (Rôle: caissier)
+[2025-04-17 03:25:21] - IP: 176.179.151.63 - Utilisateur: caissier@gmail.com - Action: Vente enregistrée pour client ID 6, total 87 €
+[2025-04-17 03:27:02] - IP: 176.179.151.63 - Utilisateur: brasseur@gmail.com - Action: Connexion réussie (Rôle: brasseur)
+[2025-04-17 03:27:03] - IP: 176.179.151.63 - Utilisateur: brasseur@gmail.com - Action: Accès à la page brasseur
+[2025-04-17 03:27:07] - IP: 176.179.151.63 - Utilisateur: brasseur@gmail.com - Action: Déconnexion
+[2025-04-17 03:27:13] - IP: 176.179.151.63 - Utilisateur: test@gmail.com - Action: Connexion réussie (Rôle: admin)
+[2025-04-17 03:27:57] - IP: 176.179.151.63 - Utilisateur: caissier@gmail.com - Action: Connexion réussie (Rôle: caissier)
+[2025-04-17 03:28:04] - IP: 176.179.151.63 - Utilisateur: caissier@gmail.com - Action: Connexion réussie (Rôle: caissier)
+[2025-04-17 03:44:37] - IP: 78.243.85.128 - Utilisateur: test@gmail.com - Action: Connexion réussie (Rôle: admin)
+[2025-04-17 03:45:24] - IP: 78.243.85.128 - Utilisateur: brasseur@gmail.com - Action: Connexion réussie (Rôle: brasseur)
+[2025-04-17 03:45:24] - IP: 78.243.85.128 - Utilisateur: brasseur@gmail.com - Action: Accès à la page brasseur
+[2025-04-17 03:46:55] - IP: 78.243.85.128 - Utilisateur: cai@test.com - Action: Connexion réussie (Rôle: caissier)
+[2025-04-17 05:13:58] - IP: 176.179.130.183 - Utilisateur: caissier@gmail.com - Action: Connexion réussie (Rôle: caissier)
+[2025-04-17 05:13:58] - IP: 176.179.130.183 - Utilisateur: caissier@gmail.com - Action: Accès à la page caissier
+[2025-04-17 05:14:32] - IP: 176.179.130.183 - Utilisateur: test@gmail.com - Action: Connexion réussie (Rôle: admin)
+[2025-04-17 05:25:03] - IP: 176.179.130.183 - Utilisateur: gg@gg.gg - Action: Connexion réussie (Rôle: direction)
+[2025-04-17 09:14:03] - IP: 178.16.162.150 - Utilisateur: test@gmail.com - Action: Connexion réussie (Rôle: admin)
+[2025-04-17 09:14:38] - IP: 178.16.162.150 - Utilisateur: elias@elias.com - Action: Connexion réussie (Rôle: brasseur)
+[2025-04-17 09:14:38] - IP: 178.16.162.150 - Utilisateur: elias@elias.com - Action: Accès à la page brasseur
+[2025-04-17 09:14:40] - IP: 178.16.162.150 - Utilisateur: elias@elias.com - Action: Déconnexion
+[2025-04-17 09:14:52] - IP: 178.16.162.150 - Utilisateur: test@gmail.com - Action: Connexion réussie (Rôle: admin)
+[2025-04-17 09:14:56] - IP: 178.16.162.150 - Utilisateur: test@gmail.com - Action: Connexion réussie (Rôle: admin)
+[2025-04-17 09:15:01] - IP: 178.16.162.150 - Utilisateur: test@gmail.com - Action: Changement de rôle pour l'utilisateur ID:20 (Email: elias@elias.com) - Ancien rôle: brasseur - Nouveau rôle: Caissier
+[2025-04-17 09:15:01] - IP: 178.16.162.150 - Utilisateur: test@gmail.com - Action: Changement de rôle pour l'utilisateur ID:20 (Email: elias@elias.com) - Ancien rôle: caissier - Nouveau rôle: admin
+[2025-04-17 09:15:02] - IP: 178.16.162.150 - Utilisateur: test@gmail.com - Action: Changement de rôle pour l'utilisateur ID:20 (Email: elias@elias.com) - Ancien rôle: admin - Nouveau rôle: client
+[2025-04-17 09:15:02] - IP: 178.16.162.150 - Utilisateur: test@gmail.com - Action: Changement de rôle pour l'utilisateur ID:20 (Email: elias@elias.com) - Ancien rôle: client - Nouveau rôle: brasseur
+[2025-04-17 09:15:03] - IP: 178.16.162.150 - Utilisateur: test@gmail.com - Action: Changement de rôle pour l'utilisateur ID:20 (Email: elias@elias.com) - Ancien rôle: brasseur - Nouveau rôle: Caissier
+[2025-04-17 09:15:03] - IP: 178.16.162.150 - Utilisateur: test@gmail.com - Action: Changement de rôle pour l'utilisateur ID:20 (Email: elias@elias.com) - Ancien rôle: caissier - Nouveau rôle: admin
+[2025-04-17 09:15:04] - IP: 178.16.162.150 - Utilisateur: test@gmail.com - Action: Changement de rôle pour l'utilisateur ID:20 (Email: elias@elias.com) - Ancien rôle: admin - Nouveau rôle: client
+[2025-04-17 09:15:04] - IP: 178.16.162.150 - Utilisateur: test@gmail.com - Action: Changement de rôle pour l'utilisateur ID:20 (Email: elias@elias.com) - Ancien rôle: client - Nouveau rôle: brasseur
+[2025-04-17 09:15:04] - IP: 178.16.162.150 - Utilisateur: test@gmail.com - Action: Changement de rôle pour l'utilisateur ID:20 (Email: elias@elias.com) - Ancien rôle: brasseur - Nouveau rôle: Caissier
+[2025-04-17 09:15:05] - IP: 178.16.162.150 - Utilisateur: test@gmail.com - Action: Changement de rôle pour l'utilisateur ID:20 (Email: elias@elias.com) - Ancien rôle: caissier - Nouveau rôle: admin
+[2025-04-17 09:15:06] - IP: 178.16.162.150 - Utilisateur: test@gmail.com - Action: Changement de rôle pour l'utilisateur ID:20 (Email: elias@elias.com) - Ancien rôle: admin - Nouveau rôle: client
+[2025-04-17 09:15:07] - IP: 178.16.162.150 - Utilisateur: test@gmail.com - Action: Changement de rôle pour l'utilisateur ID:20 (Email: elias@elias.com) - Ancien rôle: client - Nouveau rôle: brasseur
+[2025-04-17 09:15:53] - IP: 178.16.162.150 - Utilisateur: finance@finance.finance - Action: Connexion réussie (Rôle: direction)
+[2025-04-17 09:17:39] - IP: 176.179.130.183 - Utilisateur: finance@finance.finance - Action: Connexion réussie (Rôle: direction)
+[2025-04-17 09:19:53] - IP: 176.179.130.183 - Utilisateur: finance@finance.finance - Action: Connexion réussie (Rôle: direction)
+[2025-04-17 13:22:37] - IP: ::1 - Utilisateur: caissier@gmail.com - Action: Connexion réussie (Rôle: caissier)
+[2025-04-17 13:22:37] - IP: ::1 - Utilisateur: caissier@gmail.com - Action: Accès à la page caissier
+[2025-04-17 13:23:07] - IP: ::1 - Utilisateur: test@gmail.com - Action: Connexion réussie (Rôle: admin)
+[2025-04-17 13:23:54] - IP: ::1 - Utilisateur: test@gmail.com - Action: Connexion réussie (Rôle: admin)
+[2025-04-17 13:24:24] - IP: ::1 - Utilisateur: finance@finance.finance - Action: Connexion réussie (Rôle: direction)
