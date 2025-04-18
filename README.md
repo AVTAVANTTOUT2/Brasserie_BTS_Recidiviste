@@ -69,6 +69,7 @@ src/
 ├── update_panier.php            # Mise à jour du panier
 └── view_logs.php                # Visualisation des logs en temps réel
 
+```markdown
 
 ---
 
